@@ -1,0 +1,81 @@
+export const staffData = [
+    {
+        image: '/assets/img/staff/images.jpeg',
+        name: 'Faux Wood Picture Frame',
+        framesize: '2x3 in',
+        specifications: [
+            'Case Quantity: 12',
+            'Assortment Detail',
+            'Colors: Brown, White',
+            'Material: Glass, Paper, Polystyrene ',
+            'Length: 4.75in',
+            'Width: 3.635in',
+        ],
+    },
+    {
+        image: '/assets/img/staff/images-2.jpeg',
+        name: 'Special Moments Picture Frame',
+        framesize: '2x3 in',
+        specifications: [
+            'Case Quantity: 12',
+            'Assortment Detail',
+            'Colors: Brown, White, Natural',
+            'Material: Glass, Burlap, Polypropylene ',
+            'Length: 3.125in',
+            'Width: 4.5in',
+        ],
+    },
+    {
+        image: '/assets/img/staff/images-3.jpeg',
+        name: 'Faux Wood Picture Frame',
+        framesize: '2x3 in',
+        specifications: [
+            'Case Quantity: 12',
+            'Assortment Detail',
+            'Colors: Brown, White',
+            'Material: Glass, Paper, Polystyrene ',
+            'Length: 4.75in',
+            'Width: 3.635in',
+        ],
+    },
+    {
+        image: '/assets/img/staff/images-4.jpeg',
+        name: 'Faux Wood Picture Frame',
+        framesize: '2x3 in',
+        specifications: [
+            'Case Quantity: 12',
+            'Assortment Detail',
+            'Colors: Brown, White',
+            'Material: Glass, Paper, Polystyrene ',
+            'Length: 4.75in',
+            'Width: 3.635in',
+        ],
+    },
+    {
+        image: '/assets/img/staff/images-5.jpeg',
+        name: 'Faux Wood Picture Frame',
+        framesize: '2x3 in',
+        specifications: [
+            'Case Quantity: 12',
+            'Assortment Detail',
+            'Colors: Brown, White',
+            'Material: Glass, Paper, Polystyrene ',
+            'Length: 4.75in',
+            'Width: 3.635in',
+        ],
+    },
+    {
+        image: '/assets/img/staff/images.jpeg',
+        name: 'Faux Wood Picture Frame',
+        framesize: '2x3 in',
+        specifications: [
+            'Case Quantity: 12',
+            'Assortment Detail',
+            'Colors: Brown, White',
+            'Material: Glass, Paper, Polystyrene ',
+            'Length: 4.75in',
+            'Width: 3.635in',
+        ],
+    },
+    
+];
