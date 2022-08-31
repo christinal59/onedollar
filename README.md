@@ -1,4 +1,4 @@
-# Web 1 Starter Project
+# Christina's Project
 This repo is a combination of an enhanced Create React App and Heroku Express Server.
 Intention is to be used for teaching web concepts.
 
